@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jono's hello-world GitHub Page
 
 You can use the [editor on GitHub](https://github.com/JonathonClifford/hello-world/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
